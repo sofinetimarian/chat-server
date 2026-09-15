@@ -1,4 +1,4 @@
-module chat-server
+module github.com/sofinetimarian/chat-server
 
 go 1.26.5
 
